@@ -3,4 +3,3 @@ if hungry=="yes":
 	print("eat samosa")
 else:
 	print("go to sleep")
-	print("go to sleep")
